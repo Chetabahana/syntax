@@ -1,10 +1,10 @@
-id: 19
+id: 6
 user: eq19
-span: span0
+span: span13
 title: eQuantum
 baseurl: /syntax
 repository: Chetabahana/syntax
-action: Chetabahana/parser/actions/runs/15321818081
+action: Chetabahana/parser/actions/runs/15863461304
 description: 
 
 #debug:
@@ -48,6 +48,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [1, 5]
+  spin: [0, 5]
   pinned: [maps, feed, lexer, parser, syntax, grammar, artifacts, attribute, method, model, trace, track]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
